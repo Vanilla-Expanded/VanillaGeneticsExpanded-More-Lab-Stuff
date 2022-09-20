@@ -21,7 +21,7 @@ namespace GeneticRimAddOn
         {
 
 
-            this.parent.pawn.ageTracker. DebugMakeOlder(3600000L);
+            this.parent.pawn.ageTracker.DebugSetAge(this.parent.pawn.ageTracker.AgeBiologicalTicks+ 3600000L);
             MethodInfo CalculateGrowth = typeof(Pawn_AgeTracker).GetMethod("CalculateGrowth", BindingFlags.NonPublic | BindingFlags.Instance);
             CalculateGrowth.Invoke(this.parent.pawn.ageTracker, new object[] { 3600000 });
 
