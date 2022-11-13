@@ -33,7 +33,7 @@ namespace GeneticRimAddOn
                 bool genetrainerPresent = false;
 
                 foreach(HediffDef hediff in listHediffs) {
-                    if (user.health.hediffSet.HasHediff(Props.hediff))
+                    if (user.health.hediffSet.HasHediff(hediff))
                     {
                         genetrainerPresent = true;
                     }
@@ -43,7 +43,7 @@ namespace GeneticRimAddOn
                 if(!genetrainerPresent)
                 {
                     user.health.AddHediff(Props.hediff);
-                    addHediffOnce = false;
+                    this.parent.Destroy();
                 }
                 else
                 {

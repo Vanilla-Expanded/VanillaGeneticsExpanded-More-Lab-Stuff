@@ -7,7 +7,7 @@
   <!-- Misc -->
   
  
-  <GR_CantUseMoreGenetrainers>A genetrainer has been wasted. This colonist already had a genetrainer applied.</GR_CantUseMoreGenetrainers> 
+  <GR_CantUseMoreGenetrainers>This genetrainer can't be used. This colonist already had a genetrainer applied.</GR_CantUseMoreGenetrainers> 
 
 
 </LanguageData>
