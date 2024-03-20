@@ -10,3 +10,11 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaGeneticsExpan
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaGeneticsExpanded-More Lab Stuff\1.4\Source\GeneticRimAddOn\GeneticRimAddOn\obj\Debug\GeneticRimAddOn.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaGeneticsExpanded-More Lab Stuff\1.4\Assemblies\GeneticRimAddOn.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaGeneticsExpanded-More Lab Stuff\1.4\Source\GeneticRimAddOn\GeneticRimAddOn\obj\Debug\GeneticRimAddOn.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\15VanillaGeneticsExpanded-More Lab Stuff\1.5\Assemblies\GeneticRimAddOn.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\15VanillaGeneticsExpanded-More Lab Stuff\1.5\Source\GeneticRimAddOn\GeneticRimAddOn\obj\Debug\GeneticRimAddOn.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\15VanillaGeneticsExpanded-More Lab Stuff\1.5\Source\GeneticRimAddOn\GeneticRimAddOn\obj\Debug\GeneticRimAddOn.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\15VanillaGeneticsExpanded-More Lab Stuff\1.5\Source\GeneticRimAddOn\GeneticRimAddOn\obj\Debug\GeneticRimAddOn.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaGeneticsExpanded-More-Lab-Stuff\1.5\Assemblies\GeneticRimAddOn.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaGeneticsExpanded-More-Lab-Stuff\1.5\Source\GeneticRimAddOn\GeneticRimAddOn\obj\Debug\GeneticRimAddOn.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaGeneticsExpanded-More-Lab-Stuff\1.5\Source\GeneticRimAddOn\GeneticRimAddOn\obj\Debug\GeneticRimAddOn.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaGeneticsExpanded-More-Lab-Stuff\1.5\Source\GeneticRimAddOn\GeneticRimAddOn\obj\Debug\GeneticRimAddOn.dll
