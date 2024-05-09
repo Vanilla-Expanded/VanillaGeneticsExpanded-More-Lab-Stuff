@@ -4,7 +4,7 @@ using RimWorld;
 
 namespace GeneticRimAddOn
 {
-    public class CompProperties_GenetrainerUseEffect : CompProperties
+    public class CompProperties_GenetrainerUseEffect : CompProperties_UseEffect
     {
        
         public HediffDef hediff;
