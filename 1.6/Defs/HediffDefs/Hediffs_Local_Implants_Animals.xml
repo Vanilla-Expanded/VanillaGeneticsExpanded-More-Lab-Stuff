@@ -23,7 +23,7 @@
 		
 		
 		<comps>
-			<li Class="AnimalBehaviours.HediffCompProperties_Draftable">
+			<li Class="VEF.AnimalBehaviours.HediffCompProperties_Draftable">
 				<makeNonFleeingToo>true</makeNonFleeingToo>
 			</li>
 		</comps>

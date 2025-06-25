@@ -39,7 +39,7 @@
 				<safety>5</safety>
 				
 			</li>
-			<li Class="AnimalBehaviours.AnimalStatExtension">
+			<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
 				<statToAdd>
 					
 					<li>GR_Safety</li>
@@ -94,7 +94,7 @@
 				<safety>5</safety>
 				
 			</li>
-			<li Class="AnimalBehaviours.AnimalStatExtension">
+			<li Class="VEF.AnimalBehaviours.AnimalStatExtension">
 				<statToAdd>
 					
 					<li>GR_Safety</li>
